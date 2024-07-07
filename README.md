@@ -10,6 +10,11 @@
 - Bachelor's Degree, Mathematics | (_June 2022_)  
 - Final Year License Degree, Computer Science | The University of Manouba Tunisia ISAMM (_2024_)
 
+### Spoken Languages
+- English (Fluent)
+- French (Intermediate)
+- Arabic (Native)
+  
 ## Projects
 ### Data Scraping with Python
 
