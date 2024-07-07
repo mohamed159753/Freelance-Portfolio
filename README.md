@@ -1,10 +1,14 @@
 # Freelance
 
-#### Technical Skills: Python, Desigining , Wordpress , Flask
+#### Technical Skills
+- Python
+- Designing
+- WordPress
+- Flask
 
 ## Education
-- bachelor's degree, Maths | (_June 2022_)								       		
-- Final year licence degree , Computer science | The University of Manouba Tunisia ISAMM (_2024_)	 			        		
+- Bachelor's Degree, Mathematics | (_June 2022_)  
+- Final Year License Degree, Computer Science | The University of Manouba Tunisia ISAMM (_2024_)
 
 ## Projects
 ### Data Scraping with Python
@@ -17,7 +21,6 @@ I am working on an Android app that compares food prices from different retailer
 - Implemented data cleaning and standardization techniques to handle diverse retailer formats.
 - Enhanced the search and comparison mechanism to provide accurate and timely price comparisons.
 
-## Projects
 ### Discord Bot for "Undercover/Mr. White" Game
 
 I developed a Discord bot that mimics the popular "Undercover/Mr. White" game, using Python. This bot enhances the gaming experience by automating the game mechanics and providing an engaging platform for players to enjoy the game directly within their Discord servers.
@@ -48,12 +51,17 @@ You can view some of my design work [here](https://drive.google.com/drive/folder
 
 This section highlights my creativity and passion for aesthetics, which complement my technical skills and contribute to the overall quality and appeal of my projects.
 
+### Lecture/Public Speaking/Event Organizing
 
-### Lecture/Public Speaking/event organizing
-As I'm a member of gdsc(google development students club) I've participated/organized/hosted events and sessions mostly related to cyber security as I'm a cyber security Lead for two years now  
-- Mental Health and Technology - KEF,Tunisia 2023
-[check event details](https://gdsc.community.dev/events/details/developer-student-clubs-institut-superieur-de-linformatique-du-kef-presents-mental-health-and-technology/)
-[check event gallery](https://www.facebook.com/share/p/GZi7Zz88yKvx3Stp/)
-- Cyber security introduction workshop session - Mahdia,Tunisia 2024 [check session post](https://www.facebook.com/share/p/WNUqjDhP61vPfdM4/)
-- Cyber Security introduction workshop session#2 - Kef,Tunisia 2024 [check session post](https://www.facebook.com/share/p/iYsAt9kLGcJLormS/)
+As a member of GDSC (Google Developer Student Clubs), I have participated in, organized, and hosted events and sessions mostly related to cybersecurity. I have been the Cyber Security Lead for two years.
 
+**Events:**
+- **Mental Health and Technology** - KEF, Tunisia 2023  
+  [Event Details](https://gdsc.community.dev/events/details/developer-student-clubs-institut-superieur-de-linformatique-du-kef-presents-mental-health-and-technology/)  
+  [Event Gallery](https://www.facebook.com/share/p/GZi7Zz88yKvx3Stp/)
+
+- **Cyber Security Introduction Workshop Session** - Mahdia, Tunisia 2024  
+  [Session Post](https://www.facebook.com/share/p/WNUqjDhP61vPfdM4/)
+
+- **Cyber Security Introduction Workshop Session #2** - Kef, Tunisia 2024  
+  [Session Post](https://www.facebook.com/share/p/iYsAt9kLGcJLormS/)
