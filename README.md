@@ -16,7 +16,7 @@
 - Arabic (Native)
   
 ## Projects
-### Data Scraping with Python
+### Data Scraping with Python 
 
 I am working on an Android app that compares food prices from different retailers. To support this, I needed to build a Python scraping script using Flask that returns the prices of items based on users' choices to the app. This task was challenging because the search mechanisms of the retailers vary significantly. However, I managed to standardize and clean the data to achieve the desired functionality.
 
@@ -25,6 +25,8 @@ I am working on an Android app that compares food prices from different retailer
 - Integrated Flask to serve the scraped data to the Android app.
 - Implemented data cleaning and standardization techniques to handle diverse retailer formats.
 - Enhanced the search and comparison mechanism to provide accurate and timely price comparisons.
+
+[check here](https://github.com/mohamed159753/DataScraping/tree/main)
 
 ### Discord Bot for "Undercover/Mr. White" Game
 
@@ -48,6 +50,7 @@ I developed a Discord bot that mimics the popular "Undercover/Mr. White" game, u
 
 This project demonstrates my ability to create interactive and engaging applications using Python and showcases my skills in bot development and game design.
 
+you can join the discord server where the bot exist from the this [link](https://discord.gg/9e8RbS4e)
 ### Design Projects
 
 In addition to my programming projects, I have a strong interest in design, which I pursue as a hobby. I have worked on various design projects, ranging from graphic design to user interface design.
