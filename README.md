@@ -1,55 +1,59 @@
-# Data Scientist
+# Freelance
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Desigining , Wordpress , Flask
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- bachelor's degree, Maths | (_June 2022_)								       		
+- Final year licence degree , Computer science | The University of Manouba Tunisia ISAMM (_2024_)	 			        		
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Data Scraping with Python
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+I am working on an Android app that compares food prices from different retailers. To support this, I needed to build a Python scraping script using Flask that returns the prices of items based on users' choices to the app. This task was challenging because the search mechanisms of the retailers vary significantly. However, I managed to standardize and clean the data to achieve the desired functionality.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Key Achievements:**
+- Developed a robust web scraping script using Python.
+- Integrated Flask to serve the scraped data to the Android app.
+- Implemented data cleaning and standardization techniques to handle diverse retailer formats.
+- Enhanced the search and comparison mechanism to provide accurate and timely price comparisons.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## Projects
+### Discord Bot for "Undercover/Mr. White" Game
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+I developed a Discord bot that mimics the popular "Undercover/Mr. White" game, using Python. This bot enhances the gaming experience by automating the game mechanics and providing an engaging platform for players to enjoy the game directly within their Discord servers.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**Game Overview:**
+"Undercover/Mr. White" is a social deduction game where players are assigned different roles. Most players are given a common word, while one or more players (the Undercover agents) receive a different word that is related but distinct. Additionally, one player may be assigned the role of Mr. White, who must guess the common word to win. Players take turns giving one-word clues to hint at their word without revealing it outright. The objective is to identify the Undercover agents and Mr. White while avoiding being eliminated.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**Key Features:**
+- Automates the "Undercover/Mr. White" game, handling player roles, game flow, and win conditions.
+- Utilizes Python to build robust and maintainable bot functionalities.
+- Integrates seamlessly with Discord, providing an intuitive and interactive user experience.
+- Offers customizable game settings, allowing server administrators to tailor the game to their preferences.
+- Ensures fair play by randomly assigning roles and managing game state transparently.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Technical Highlights:**
+- Developed using Discord.py, a powerful library for creating Discord bots in Python.
+- Implemented state management to handle various stages of the game, ensuring smooth transitions.
+- Utilized asynchronous programming to handle multiple game sessions simultaneously.
+- Designed a user-friendly command system to interact with the bot effortlessly.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+This project demonstrates my ability to create interactive and engaging applications using Python and showcases my skills in bot development and game design.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### Design Projects
+
+In addition to my programming projects, I have a strong interest in design, which I pursue as a hobby. I have worked on various design projects, ranging from graphic design to user interface design.
+
+You can view some of my design work [here]([your-drive-link](https://drive.google.com/drive/folders/1yA3nKpvgHqZcvfbLyZvRZQgX2uyVbdgj?usp=sharing)).
+
+This section highlights my creativity and passion for aesthetics, which complement my technical skills and contribute to the overall quality and appeal of my projects.
+
+
+### Lecture/Public Speaking/event organizing
+As I'm a member of gdsc(google development students club) I've participated/organized/hosted events and sessions mostly related to cyber security as I'm a cyber security Lead for two years now  
+- Mental Health and Technology - KEF,Tunisia 2023
+(https://gdsc.community.dev/events/details/developer-student-clubs-institut-superieur-de-linformatique-du-kef-presents-mental-health-and-technology/)
+(https://www.facebook.com/share/p/GZi7Zz88yKvx3Stp/)
+- Cyber security introduction workshop session - Mahdia,Tunisia 2024 (https://www.facebook.com/share/p/WNUqjDhP61vPfdM4/)
+- Cyber Security introduction workshop session#2 - Kef,Tunisia 2024 (https://www.facebook.com/share/p/iYsAt9kLGcJLormS/)
+
