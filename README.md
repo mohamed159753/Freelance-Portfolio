@@ -44,7 +44,7 @@ This project demonstrates my ability to create interactive and engaging applicat
 
 In addition to my programming projects, I have a strong interest in design, which I pursue as a hobby. I have worked on various design projects, ranging from graphic design to user interface design.
 
-You can view some of my design work [here]([your-drive-link](https://drive.google.com/drive/folders/1yA3nKpvgHqZcvfbLyZvRZQgX2uyVbdgj?usp=sharing)).
+You can view some of my design work [here]([https://drive.google.com/drive/folders/1yA3nKpvgHqZcvfbLyZvRZQgX2uyVbdgj?usp=sharing]).
 
 This section highlights my creativity and passion for aesthetics, which complement my technical skills and contribute to the overall quality and appeal of my projects.
 
