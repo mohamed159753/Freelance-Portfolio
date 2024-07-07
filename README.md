@@ -52,8 +52,8 @@ This section highlights my creativity and passion for aesthetics, which compleme
 ### Lecture/Public Speaking/event organizing
 As I'm a member of gdsc(google development students club) I've participated/organized/hosted events and sessions mostly related to cyber security as I'm a cyber security Lead for two years now  
 - Mental Health and Technology - KEF,Tunisia 2023
-(https://gdsc.community.dev/events/details/developer-student-clubs-institut-superieur-de-linformatique-du-kef-presents-mental-health-and-technology/)
-(https://www.facebook.com/share/p/GZi7Zz88yKvx3Stp/)
-- Cyber security introduction workshop session - Mahdia,Tunisia 2024 (https://www.facebook.com/share/p/WNUqjDhP61vPfdM4/)
-- Cyber Security introduction workshop session#2 - Kef,Tunisia 2024 (https://www.facebook.com/share/p/iYsAt9kLGcJLormS/)
+[check event details](https://gdsc.community.dev/events/details/developer-student-clubs-institut-superieur-de-linformatique-du-kef-presents-mental-health-and-technology/)
+[check event gallery](https://www.facebook.com/share/p/GZi7Zz88yKvx3Stp/)
+- Cyber security introduction workshop session - Mahdia,Tunisia 2024 [check session post](https://www.facebook.com/share/p/WNUqjDhP61vPfdM4/)
+- Cyber Security introduction workshop session#2 - Kef,Tunisia 2024 [check session post](https://www.facebook.com/share/p/iYsAt9kLGcJLormS/)
 
