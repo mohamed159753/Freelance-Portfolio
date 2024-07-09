@@ -26,7 +26,7 @@ I am working on an Android app that compares food prices from different retailer
 - Implemented data cleaning and standardization techniques to handle diverse retailer formats.
 - Enhanced the search and comparison mechanism to provide accurate and timely price comparisons.
 
-[check here to check the project along with other Data Scraping projects](https://github.com/mohamed159753/DataScraping/tree/main)
+[click here to check the project along with other Data Scraping projects](https://github.com/mohamed159753/DataScraping/tree/main)
 
 ### Discord Bot for "Undercover/Mr. White" Game
 
