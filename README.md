@@ -22,20 +22,12 @@ A mobile application that helps users compare prices from various retailers (e.g
 **Key Achievements:** Built efficient search and comparison mechanisms, handled diverse retailer formats, and delivered real-time price data for accurate product comparisons.
 [click here to check the project along with other Data Scraping projects](https://github.com/mohamed159753/DataScraping/tree/main)
 
-### 2. Discord Bot for "Undercover/Mr. White" Game
-An interactive Discord bot that automates the popular "Undercover/Mr. White" social deduction game, enhancing the gaming experience by automating roles, game flow, and win conditions.
-
-#### Tech Stack: Python, Discord.py
-Features: Handles multiple game sessions, manages roles and game states, and offers customizable game settings for server admins.
-Join the Discord Server
-you can join the discord server where the bot exist from the this [link](https://discord.gg/9e8RbS4e)
-
-### 3. House Finder - Real Estate 3D Visualization Platform
+### 2. House Finder - Real Estate 3D Visualization Platform
 Developed a web platform that allows users to view 3D property models and manage listings with a frontend in Angular and a backend in Spring Boot. Users can explore properties in an immersive 3D environment.
 
 #### Tech Stack: Angular, Spring Boot
 **Key Achievements:** Enabled interactive 3D visualization and efficient property management.
-### 4. Design Projects
+### 3. Design Projects
 A collection of graphic and user interface design work that highlights my interest in aesthetics and usability. This creative side complements my technical skills, allowing me to create visually appealing and intuitive user interfaces.
 
 You can view some of my design work [here](https://drive.google.com/drive/folders/1yA3nKpvgHqZcvfbLyZvRZQgX2uyVbdgj?usp=sharing).
