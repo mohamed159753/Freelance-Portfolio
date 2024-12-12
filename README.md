@@ -40,7 +40,7 @@ A collection of graphic and user interface design work that highlights my intere
 
 You can view some of my design work [here](https://drive.google.com/drive/folders/1yA3nKpvgHqZcvfbLyZvRZQgX2uyVbdgj?usp=sharing).
 
-Extracurricular Activities
+## Extracurricular Activities
 Cybersecurity Events - GDSC Lead
 As the Cyber Security Lead for GDSC, I have organized and hosted various workshops, discussions, and collaborative sessions focusing on cybersecurity, the intersection of mental health and technology, and more.
 
